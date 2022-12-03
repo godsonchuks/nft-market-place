@@ -1,0 +1,1 @@
+export const nftVoteData = ['Asak Skyscrappers', '30BG NFTOPTION', 'bobochicago', 'eiffel towers', 'wiz buildings ']
